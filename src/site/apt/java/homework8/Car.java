@@ -1,3 +1,5 @@
+package homework8;
+
 public class Car {
     private int year;
     private double speed;
@@ -6,7 +8,7 @@ public class Car {
 
     @Override
     public String toString() {
-        return "Car{" +
+        return "homework8.Car{" +
                 "year=" + year +
                 ", speed=" + speed +
                 ", weight=" + weight +

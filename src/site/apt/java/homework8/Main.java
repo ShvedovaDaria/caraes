@@ -1,3 +1,7 @@
+package homework8;
+
+import homework8.Car;
+
 public class Main {
     public static void main(String[] args) {
       Car car1 = new Car();
